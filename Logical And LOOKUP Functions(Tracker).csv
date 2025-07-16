@@ -1,0 +1,51 @@
+Employee ID,Department,Name,Sales Target,Actual Sales,Performance Rating,Hire Date,Date of Review,Years of Service,Target Per Employee,Performance ,Eligible For a Bonus
+E00047,Marketing,Jane Smith 10,40000,42000,105%,6/3/2013,6/30/2023,1,Target Met,High Performer,Eligible
+E00014,HR,Alice Brown 3,20000,22000,110%,12/1/2013,6/30/2023,7,Target Met,High Performer,Eligible
+E00012,Marketing,Jane Smith 3,40000,42000,105%,6/1/2020,6/30/2023,1,Target Met,High Performer,Eligible
+E00029,HR,Alice Brown 6,20000,22000,110%,12/2/2010,6/30/2023,7,Target Met,High Performer,Eligible
+E00049,HR,Alice Brown 10,20000,22000,110%,12/3/2006,6/30/2023,7,Target Met,High Performer,Eligible
+E00030,Finance,Charlie Green 6,35000,33000,94%,3/16/2005,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00023,IT,Bob Johnson 5,30000,25000,83%,11/2/2017,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E00039,HR,Alice Brown 8,20000,22000,110%,12/2/2008,6/30/2023,7,Target Met,High Performer,Eligible
+E00020,Finance,Charlie Green 4,35000,33000,94%,3/16/2007,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00040,Finance,Charlie Green 8,35000,33000,94%,3/17/2003,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00031,Sales,John Doe 7,50000,45000,90%,1/2/2014,6/30/2023,3,Target Not Met,Standard Performer,Not Eligible
+E00042,Marketing,Jane Smith 9,40000,42000,105%,6/3/2014,6/30/2023,1,Target Met,High Performer,Eligible
+E002,Marketing,Jane Smith,40000,42000,105%,6/1/2022,6/30/2023,1,Target Met,High Performer,Eligible
+E00044,HR,Alice Brown 9,20000,22000,110%,12/3/2007,6/30/2023,7,Target Met,High Performer,Eligible
+E00043,IT,Bob Johnson 9,30000,25000,83%,11/3/2013,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E003,IT,Bob Johnson,30000,25000,83%,11/1/2021,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E00038,IT,Bob Johnson 8,30000,25000,83%,11/3/2014,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E00028,IT,Bob Johnson 6,30000,25000,83%,11/2/2016,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E00021,Sales,John Doe 5,50000,45000,90%,1/2/2016,6/30/2023,3,Target Not Met,Standard Performer,Not Eligible
+E00016,Sales,John Doe 4,50000,45000,90%,1/1/2017,6/30/2023,3,Target Not Met,Standard Performer,Not Eligible
+E00024,HR,Alice Brown 5,20000,22000,110%,12/2/2011,6/30/2023,7,Target Met,High Performer,Eligible
+E00046,Sales,John Doe 10,50000,45000,90%,1/3/2011,6/30/2023,3,Target Not Met,Standard Performer,Not Eligible
+E00015,Finance,Charlie Green 3,35000,33000,94%,3/15/2008,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00050,Finance,Charlie Green 10,35000,33000,94%,3/17/2001,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00019,HR,Alice Brown 4,20000,22000,110%,12/1/2012,6/30/2023,7,Target Met,High Performer,Eligible
+E00035,Finance,Charlie Green 7,35000,33000,94%,3/16/2004,6/30/2023,13,Target Not Met,Standard Performer,Eligible
+E00018,IT,Bob Johnson 4,30000,25000,83%,11/2/2018,6/30/2023,1,Target Not Met,Standard Performer,Not Eligible
+E004,HR,Alice Brown,20000,22000,110%,12/1/2015,6/30/2023,7,Target Met,High Performer,Eligible
+E00007,Marketing,Jane Smith 2,40000,42000,105%,6/1/2021,6/30/2023,1,Target Met,High Performer,Eligible
+E00022,Marketing,Jane Smith 5,40000,42000,105%,6/2/2018,6/30/2023,1,Target Met,High Performer,Eligible
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
